@@ -1,1 +1,1 @@
-A basic To Dos List
+A basic To Dos List made with pure HTML, CSS, and JavaScript
